@@ -1,0 +1,44 @@
+.task-container{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    align-items: center;
+    background-color: rgba(0, 255, 255, 0.532);
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    border-left: 5px solid #08674c;
+}
+
+.edit-container{
+    width: 80%;
+    align-items: center;
+    background-color: rgba(0, 255, 255, 0.532);
+    margin: 10px;
+    padding: 10px 20px 10px 20px;
+    margin-left: 40px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    border-left: 5px solid #08674c;
+
+}
+
+.checkbox-task-container{
+    display: flex;
+    align-items: center;
+}
+
+.edit-btn{
+    margin-right: 10px;
+}
+
+.input-edit{
+    width: 80%;
+    height: 35px;
+    padding-left: 20px;
+    
+    border-radius: 5px;
+    border: 1px solid #111111;
+  
+  }
